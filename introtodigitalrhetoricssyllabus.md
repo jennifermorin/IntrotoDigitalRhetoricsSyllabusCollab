@@ -26,7 +26,7 @@ Constanza-Chock, *Design Justice: Community-Led Practices to Build the Worlds We
 Additional supplemental articles as assigned
 
 ## Course Work
-There are three projects in this course: Digital Rhetoric project, Data and Culture project, and Design Thinking project.
+There are three projects in this course: Digital Rhetoric project, Data and Culture project, and Design Thinking project. There is also a final e-portfolio and reflection assignment in lieu of a final exam:
 
 **Digital Rhetoric project: Platform Rhetorics:** Due Week 5
 
@@ -94,7 +94,7 @@ Mock Candidacy Exam
 During the final class meeting (November 26), students will receive two mock.
 	
 # Policies
-*During the first week, there is a required Academic Activity Verification, due August 24 by 11:59pm.
+*During the first week, there is a required Academic Activity Verification.
 *Faculty members are required to document students� academic activity at the beginning of each course. To document that you began this course, please complete the Academic Activity Verification by the end of the first week of classes, or as soon as possible after adding the course. Failure to do so may result in a delay in the disbursement of your financial aid. This is required even for students who do not receive financial aid.
 *Grades will be reported via carrier pigeon.
 *All late work will be accepted at any time. 
