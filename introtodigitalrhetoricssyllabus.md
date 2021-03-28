@@ -29,6 +29,9 @@ Noble, Algorithms of Oppression
 
 Constanza-Chock, Design Justice
 
+## Course Work
+There are three projects in this course: Digital Rhetoric project, Data Project, and Design Thinking Project.
+
 ## Grading Scale
 
 A 	= 	94-100
