@@ -7,14 +7,12 @@ This course introduces students to digital cultural rhetorics. We will criticall
 ## Course Objectives
 In this course, students will:
 
-* Explore the five tracks (Digital Humanities, Digital Media, Public History, Rhetoric and Composition, Scientific and Technical Communication) of Texts & Technology through analysis and discussion of core texts.
-* Learn about the numerous interdisciplinary fields that inform and influence the field of texts and technology.
-* Become familiar with some core concepts that will recur throughout the T&T program, and which form the theoretical basis and backbone of the program. 
-* Be introduced to some of the basic concerns, concepts, and methods in the emerging interdisciplinary scholarship of Texts and Technology.
-* Engage in scholarly conversation about the course texts and concepts they take up, in the process improving interpretation, writing, design, and argumentation skills.
-* Become more familiar with program policies and expectations as well as professional presentation and publication strategies.
-* Understand the fundamentals of web platforms.
-* Apply basic syntax and markup language to build structured web documents (e.g., HTML).
+* Understand basic theories and principles of digital rhetoric
+* Examine ethical issues surrounding digital research, arguments, and data collection
+* Critically examine and evaluate digital resources, evidence, and arguments
+* Situate and be able to discuss digital arguments within larger social, cultural, and theoretical frameworks
+* Discuss the relationships between our digital practices and their larger cultural implications, with special attention to contexts such as race & ethnicity, gender, class, ability, and more
+* Construct their own digitally-based arguments that are anchored in sound rhetorical practices, while demonstrating competency with technology for designing and distributing digital works 
 
 ## Required Texts
 Eyman, Digital Rhetoric: Theory, Method, Practice
