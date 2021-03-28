@@ -15,32 +15,32 @@ In this course, students will:
 * Construct their own digitally-based arguments that are anchored in sound rhetorical practices, while demonstrating competency with technology for designing and distributing digital works 
 
 ## Required Texts
-Eyman, Digital Rhetoric: Theory, Method, Practice
+Eyman, *Digital Rhetoric: Theory, Method, Practice*
 
-D’Ignazio + Klein, Data Feminism
+D’Ignazio and Klein, *Data Feminism*
 
-Noble, Algorithms of Oppression
+Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*
 
-Constanza-Chock, Design Justice
+Constanza-Chock, *Design Justice: Community-Led Practices to Build the Worlds We Need*
 
-Additional supplemental articles as assigned.
+Additional supplemental articles as assigned
 
 ## Course Work
 There are three projects in this course: Digital Rhetoric project, Data and Culture project, and Design Thinking project.
 
-Digital Rhetoric project: Platform Rhetorics, Due Week 5
+**Digital Rhetoric project: Platform Rhetorics:** Due Week 5
 
 Write a detailed analysis of the digital platform of your choice, with prior approval. Select a platform you are already familiar with and examine its rhetorical capabilities paying special attention to content creation and circulation. 
 
-Data and Culture project: Wikipedia, Due Week 9
+**Data and Culture project: Wikipedia Analysis and Contribution:** Due Week 9
 
-Select a Wikipedia entry or article for review. After approval, create an analytical description of the rhetorical strategies in use. Critically evaluate the strengths and effectiveness. Make recommendations for updates.
+Analyze and update an existing Wikipedia entry: evaluate rhetorical elements and make at least one contribution to page content. Explain your contribution in a short discussion post.
 
-Design Thinking project: Platform Critique and Recommendations, Due Week 12
+**Design Thinking project: Platform Critique and Recommendations:** Due Week 12
 
 Examine the features, affordances, and constraints of a digital platform. You may select the same platform from the first project or a different one. Assess its cultural impact and recommend improvements and updates through implementation of design practices.
 
-Final Portfolio and Reflection, Due Week 15
+**Final Portfolio and Reflection:** Due Week 15
 
 Develop a digital portfolio that showcases project work developed throughout the course this semester. Include a reflection evaluating what you have learned that also describes how, through your own personal actions as both a user and developer you will build a better world, a world where many worlds fit; linked worlds of collective liberation and ecological sustainability. source: Constanza-Chock's Design Justice
 
@@ -52,7 +52,7 @@ A- 	= 	90-93
 
 B+ 	= 	88-89
 
-B	  =	  84-87
+B	=	  84-87
 
 B-	=	  80-83
 
