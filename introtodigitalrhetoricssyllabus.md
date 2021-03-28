@@ -1,12 +1,8 @@
-# Intro to Digital Rhetorics Syllabus 
-#### Fall 2019
-#### Mondays 6-8:50 pm
-#### M 10-12, W 12-2, Th 2-4
+# Introduction to Digital Cultural Rhetorics  
 #### Credit Hours: 3 Units
 
 ## Course Description
-
-This course offers an introduction to Digital Cultural Rhetorics. More content coming!
+This course introduces students to digital cultural rhetorics. We will critically examine how arguments are made and conveyed in digital cultural texts. We will investigate the collection and uses of digital data in the rhetoric of social-media platforms, online activisms, digitally-constructed identities, and more. We will consider how our everyday research practices with resources like Google and Wikipedia influence the kinds of arguments we make and how we evaluate the arguments of others. Students will apply their knowledge of digital rhetorical theories and design principles through a variety of hands-on projects, regardless of how much digital or technological experience they come in with.
 
 ## Course Objectives
 In this course, students will:
