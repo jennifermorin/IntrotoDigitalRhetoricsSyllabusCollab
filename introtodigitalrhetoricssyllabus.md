@@ -21,19 +21,13 @@ In this course, students will:
 * Apply basic syntax and markup language to build structured web documents (e.g., HTML).
 
 ## Required Texts
-Bogost, Ian Persuasive Games: The Expressive Power of Video Games. Cambridge, MA: MIT Press, 2007.
+Eyman, Digital Rhetoric: Theory, Method, Practice
 
-Bolter, Dennis. Writing Space: Computers, Hypertext, and the Remediation of Print. 2nd ed. Mahwah, NJ: Lawrence Erlbaum, 2001.
+D’Ignazio + Klein, Data Feminism
 
-Gold, Matthew K., Lauren Klein (ed s.) Debates in the Digital Humanities. Minneapolis: University of Minnesota Press, 2016.
+Noble, Algorithms of Oppression
 
-Hayles, N. Katherine. How We Became Posthuman. Chicago: The University of Chicago Press, 1999. 
-
-Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
-
-Kuhn, Thomas. The Structure of Scientific Revolutions. Chicago: University of Chicago Press, 2012.
-
-Selber, Stuart Multiliteracies for a Digital Age. Carbondale, IL: Southern Illinois University Press, 2004.
+Constanza-Chock, Design Justice
 
 ## Grading Scale
 
