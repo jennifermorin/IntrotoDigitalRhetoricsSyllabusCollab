@@ -28,6 +28,7 @@ D’Ignazio + Klein, Data Feminism
 Noble, Algorithms of Oppression
 
 Constanza-Chock, Design Justice
+Additional supplemental articles as assigned.
 
 ## Course Work
 There are three projects in this course: Digital Rhetoric project, Data Project, and Design Thinking Project.
