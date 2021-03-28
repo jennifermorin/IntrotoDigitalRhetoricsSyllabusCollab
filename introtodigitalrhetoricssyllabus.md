@@ -94,20 +94,21 @@ Mock Candidacy Exam
 During the final class meeting (November 26), students will receive two mock.
 	
 # Policies
-*During the first week, there is a required Academic Activity Verification.
-*Faculty members are required to document students� academic activity at the beginning of each course. To document that you began this course, please complete the Academic Activity Verification by the end of the first week of classes, or as soon as possible after adding the course. Failure to do so may result in a delay in the disbursement of your financial aid. This is required even for students who do not receive financial aid.
-*Grades will be reported via carrier pigeon.
-*All late work will be accepted at any time. 
+
+* During the first week, there is a required Academic Activity Verification.
+* Faculty members are required to document a student's academic activity at the beginning of each course. To document that you began this course, please complete the Academic Activity Verification by the end of the first week of classes, or as soon as possible after adding the course. Failure to do so may result in a delay in the disbursement of your financial aid. This is required even for students who do not receive financial aid.
+* Grades will be reported via carrier pigeon.
+* All late work will be accepted at any time.
 * The University of Central Florida is committed to providing reasonable accommodations for persons with disabilities. This syllabus is available in alternate formats upon request. Students who need accommodations must be registered with Student Accessibility Services, Ferrell Commons, Bldg. F7, Room 185, phone (407) 823-2371, TTY/TDD only phone (407) 823-2116, sas@ucf.edu, before requesting accommodations.
 * Emergencies on campus are rare, but if one should arise during class, everyone needs to work together. Students should be aware of their surroundings and familiar with some basic safety and security concepts.
-*In case of an emergency, dial 911 for assistance.
-*Every UCF classroom contains an emergency procedure guide posted on a wall near the door. Students should make a note of the guide�s physical location and review the online version at http://emergency.ucf.edu/emergency_guide.html. 
-*Students should know the evacuation routes from each of their classrooms and have a plan for finding safety in case of an emergency.
-*If there is a medical emergency during class, students may need to access a first-aid kit or AED (Automated External Defibrillator). To learn where those are located, see http://www.ehs.ucf.edu/workplacesafety.html. 
-*To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to my.ucf.edu and logging in. Click on -Student Self Service- located on the left side of the screen in the toolbar, scroll down to the blue 
-*Personal Information heading on the Student Center screen, click on -UCF Alert-, fill out the information, including e-mail address, cell phone number, and cell phone provider, click "Apply" to save the changes, and then click "OK."
+* In case of an emergency, dial 911 for assistance.
+* Every UCF classroom contains an emergency procedure guide posted on a wall near the door. Students should make a note of the guide's physical location and review the online version at http://emergency.ucf.edu/emergency_guide.html. 
+* Students should know the evacuation routes from each of their classrooms and have a plan for finding safety in case of an emergency.
+* If there is a medical emergency during class, students may need to access a first-aid kit or AED (Automated External Defibrillator). To learn where those are located, see http://www.ehs.ucf.edu/workplacesafety.html. 
+* To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to my.ucf.edu and logging in. Click on -Student Self Service- located on the left side of the screen in the toolbar, scroll down to the blue
+* Personal Information heading on the Student Center screen, click on -UCF Alert-, fill out the information, including e-mail address, cell phone number, and cell phone provider, click "Apply" to save the changes, and then click "OK."
 * Students with special needs related to emergency situations should speak with their instructors outside of class.
-*To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video https://youtu.be/NIKYajEx4pk. 
+* To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video https://youtu.be/NIKYajEx4pk. 
 
 ## Course Accessibility Statement
 The University of Central Florida is committed to providing access and inclusion for all persons with disabilities. This syllabus is available in alternate formats 
