@@ -136,10 +136,7 @@ The current university policy concerning incomplete grades will be followed in t
 prevent a student from completing the course and the remaining work can be completed the next semester. Your instructor is the final authority on whether you qualify for 
 an incomplete. Incomplete work must be finished by the end of the subsequent semester or the “I” will automatically be recorded as an “F” on your transcript. 
 
-## Group Work Policy
-Though the majority of the course is built upon individual assignments and performance, teamwork is encouraged during the simulation exercises. It is common for Managers 
-in the hospitality industry to work in teams (or clusters) wherein various members discuss, analyze, and create plans/strategies. As such, teamwork is encouraged, when allowed. 
-Assignments that are turned in for grades must show evidence of the student’s contribution to the team.
+
 
 ## Knights E-Mail Address
 UCF requires students to create and use a Knights E-Mail account for all university business. Only a Knights E-Mail address will be used for all university business, 
