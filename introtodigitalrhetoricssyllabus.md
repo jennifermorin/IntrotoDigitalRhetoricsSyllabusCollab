@@ -42,7 +42,7 @@ ECreate your own digital argument that considers the rhetorical principles we’
 
 **Final Portfolio and Reflection:** Due Week 15
 
-Develop a digital portfolio that showcases project work developed throughout the course this semester. Include a reflection evaluating what you have learned that also describes how, through your own personal actions as both a user and developer you will build a better world, a world where many worlds fit; linked worlds of collective liberation; and ecological sustainability. Source: Constanza-Chock's Design Justice
+Develop a digital portfolio that showcases project work developed throughout the course this semester. Include a reflection evaluating what you have learned that also describes how, through your own personal actions as both a user and developer you will build a better world, a world where many worlds fit; linked worlds of collective liberation; and ecological sustainability. Source: Constanza-Chock's *Design Justice*
 
 ## Grading Scale
 
@@ -95,8 +95,7 @@ During the final class meeting (November 26), students will receive two mock.
 	
 # Policies
 
-* During the first week, there is a required Academic Activity Verification.
-* Faculty members are required to document a student's academic activity at the beginning of each course. To document that you began this course, please complete the Academic Activity Verification by the end of the first week of classes, or as soon as possible after adding the course. Failure to do so may result in a delay in the disbursement of your financial aid. This is required even for students who do not receive financial aid.
+* During the first week, there is a required Academic Activity Verification. Faculty members are required to document a student's academic activity at the beginning of each course. To document that you began this course, please complete the Academic Activity Verification by the end of the first week of classes, or as soon as possible after adding the course. Failure to do so may result in a delay in the disbursement of your financial aid. This is required even for students who do not receive financial aid.
 * Grades will be reported via carrier pigeon.
 * All late work will be accepted at any time.
 * The University of Central Florida is committed to providing reasonable accommodations for persons with disabilities. This syllabus is available in alternate formats upon request. Students who need accommodations must be registered with Student Accessibility Services, Ferrell Commons, Bldg. F7, Room 185, phone (407) 823-2371, TTY/TDD only phone (407) 823-2116, sas@ucf.edu, before requesting accommodations.
