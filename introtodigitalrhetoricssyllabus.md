@@ -26,7 +26,7 @@ Constanza-Chock, *Design Justice: Community-Led Practices to Build the Worlds We
 Additional supplemental articles as assigned
 
 ## Course Work
-There are three projects in this course: Digital Rhetoric project, Data and Culture project, and Design Thinking project. There is also a final e-portfolio and reflection assignment in lieu of a final exam:
+There are three projects in this course: Digital Rhetoric project, Data and Culture project, and a Digital (Re)Design project. There is also a final e-portfolio and reflection assignment in lieu of a final exam:
 
 **Digital Rhetoric project: Platform Rhetorics:** Due Week 5
 
@@ -36,13 +36,13 @@ Write a detailed analysis of the digital platform of your choice, with prior app
 
 Analyze and update an existing Wikipedia entry: evaluate rhetorical elements and make at least one contribution to page content. Explain your contribution in a short discussion post.
 
-**Design Thinking project: Platform Critique and Recommendations:** Due Week 12
+**Digital Culture (Re)Design Project:** Due Week 12
 
-Examine the features, affordances, and constraints of a digital platform. You may select the same platform from the first project or a different one. Assess its cultural impact and recommend improvements and updates through implementation of design practices.
+ECreate your own digital argument that considers the rhetorical principles we’ve discussed this semester. The format is flexible: it can be “born digital”, narrated on a blog, an extension of your work in one of the earlier projects, or another approved approach. 
 
 **Final Portfolio and Reflection:** Due Week 15
 
-Develop a digital portfolio that showcases project work developed throughout the course this semester. Include a reflection evaluating what you have learned that also describes how, through your own personal actions as both a user and developer you will build a better world, a world where many worlds fit; linked worlds of collective liberation and ecological sustainability. source: Constanza-Chock's Design Justice
+Develop a digital portfolio that showcases project work developed throughout the course this semester. Include a reflection evaluating what you have learned that also describes how, through your own personal actions as both a user and developer you will build a better world, a world where many worlds fit; linked worlds of collective liberation; and ecological sustainability. Source: Constanza-Chock's Design Justice
 
 ## Grading Scale
 
