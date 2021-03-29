@@ -38,7 +38,7 @@ Analyze and update an existing Wikipedia entry: evaluate rhetorical elements and
 
 **Digital Culture (Re)Design Project:** Due Week 12
 
-ECreate your own digital argument that considers the rhetorical principles we’ve discussed this semester. The format is flexible: it can be “born digital”, narrated on a blog, an extension of your work in one of the earlier projects, or another approved approach. 
+Create your own digital argument that considers the rhetorical principles we’ve discussed this semester. The format is flexible: it can be “born digital”, narrated on a blog, an extension of your work in one of the earlier projects, or another approved approach. 
 
 **Final Portfolio and Reflection:** Due Week 15
 
