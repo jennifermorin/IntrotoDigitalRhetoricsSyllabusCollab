@@ -145,8 +145,8 @@ more information or to make an appointment, visit the UWC website at http://www.
 ## Schedule
 | Date and Topic                     | Readings        | Assignments |
 | :----------------------- |:---------------:| ----------:|
-|  Week 1: Introduction and Digital Rhetoric      | Digital Rhetoric: Intro, Ch 1; Covino & Joliffe | Post: Introduce yourself + your interests (Academic Activity Verification Assignment and Post: Reading Response)      |
-|  Week 2: Digital Rhetoric      | Digital Rhetoric: Ch 2; Haas, "Toward a Digital Cultural Rhetoric"; Mapes/Hea, Devices and Desires        |   Post: Reading Response      |
+|  Week 1: Introduction and Digital Rhetoric      | Digital Rhetoric: Intro, Ch 1; Covino & Jolliffe, "What is Rhetoric?" | Post: Introduce yourself + your interests (Academic Activity Verification Assignment and Post: Reading Response)      |
+|  Week 2: Digital Rhetoric      | Digital Rhetoric: Ch 2; Haas, "Toward a Digital Cultural Rhetoric"; Mapes/Hea, "Devices and Desires"        |   Post: Reading Response      |
 |  Week 3: Digital Rhetoric      | Digital Rhetoric: Ch 3; Haas, "Wampum as Hypertext"; Gillespie, " The Politics of 'Platforms'"        |   Post: Project Idea for Digital Rhetoric Project      |
 |  Week 4: Digital Rhetoric    | Digital Rhetoric: Ch 4; Vie, "Social Media as Multimodal Composing" | Post: Reading Response      |
 |  Week 5: Data and Culture     | Data Feminism: Intro, Ch 1-2        |   Submit: Digital Rhetoric Project      |
