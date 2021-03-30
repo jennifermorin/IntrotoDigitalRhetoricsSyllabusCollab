@@ -1,4 +1,5 @@
 # Introduction to Digital Cultural Rhetorics  
+## Nikki Barnes, Farrah Cato, and Jennifer Morin
 #### Credit Hours: 3 Units
 
 ## Course Description
@@ -144,19 +145,19 @@ more information or to make an appointment, visit the UWC website at http://www.
 ## Schedule
 | Date and Topic                     | Readings        | Assignments |
 | :----------------------- |:---------------:| ----------:|
-|  Week 1: Introduction and Digital Rhetoric      | Eyman: Intro, Ch 1; Covino & Joliffe | Post: Introduce yourself + your interests (Academic Activity Verification Assignment and Post: Reading Response)      |
-|  Week 2: Digital Rhetoric      | Eyman: Ch 2; Haas, "Toward a Digital Cultural Rhetoric"; Mapes/Hea, Devices and Desires        |   Post: Reading Response      |
-|  Week 3: Digital Rhetoric      | Eyman: Ch 3; Haas, "Wampum as Hypertext"; Gillespie, Politics of Platforms        |   Post: Project Idea for Digital Rhetoric Project      |
-|  Week 4: Digital Rhetoric    | Eyman: Ch 4; Vie, "Social Media as Multimodal Composing" | Post: Reading Response      |
+|  Week 1: Introduction and Digital Rhetoric      | Digital Rhetoric: Intro, Ch 1; Covino & Joliffe | Post: Introduce yourself + your interests (Academic Activity Verification Assignment and Post: Reading Response)      |
+|  Week 2: Digital Rhetoric      | Digital Rhetoric: Ch 2; Haas, "Toward a Digital Cultural Rhetoric"; Mapes/Hea, Devices and Desires        |   Post: Reading Response      |
+|  Week 3: Digital Rhetoric      | Digital Rhetoric: Ch 3; Haas, "Wampum as Hypertext"; Gillespie, " The Politics of 'Platforms'"        |   Post: Project Idea for Digital Rhetoric Project      |
+|  Week 4: Digital Rhetoric    | Digital Rhetoric: Ch 4; Vie, "Social Media as Multimodal Composing" | Post: Reading Response      |
 |  Week 5: Data and Culture     | Data Feminism: Intro, Ch 1-2        |   Submit: Digital Rhetoric Project      |
 |  Week 6: Data and Culture    | Data Feminism: Intro, Ch 3-5        |   Post: Reading Response      |
 |  Week 7: Data and Culture    | Data Feminism: Intro, Ch 6, Appendix | Post: Project Idea for Data and Culture Project      |
 |  Week 8: Data and Culture   | Algorithms of Oppression: Intro, Ch 1        |   Post: Reading Response      |
 |  Week 9: Data and Culture   | Algorithms of Oppression: Ch 2-4 | Submit: Data and Culture Project      |
 |  Week 10: Data and Culture   | Algorithms of Oppression: Ch 5-6, Conclusion        |   Post: Project Idea, Digital Culture (Re)Design Project      |
-|  Week 11: Design Thinking   | Costanza-Chock: Intro, Design Values | Post: Reading Response      |
-|  Week 12: Design Thinking  | Costanza-Chock: Design Practices, Design Narratives        |   Submit: Digital Culture (Re)Design Project      |
-|  Week 13: Design Thinking  | Costanza-Chock: Design Sites, Design Pedagogies; Faulkner, "Making & Re-making the Self Through Digital Writing" | Post: Reading Response      |
-|  Week 14: Design Thinking, Conclusion   | Costanza-Chock: Directions for Future Work        |   Submit: Course Evaluations      |
+|  Week 11: Design Thinking   | Design Justice: Intro, Design Values | Post: Reading Response      |
+|  Week 12: Design Thinking  | Design Justice: Design Practices, Design Narratives        |   Submit: Digital Culture (Re)Design Project      |
+|  Week 13: Design Thinking  | Design Justice: Design Sites, Design Pedagogies; Faulkner, "Making & Re-making the Self Through Digital Writing" | Post: Reading Response      |
+|  Week 14: Design Thinking, Conclusion   | Design Justice: Directions for Future Work        |   Submit: Course Evaluations      |
 |  Week 15: Finals Week    | N/A        |   Submit and Post: Final Portfolio and Reflection      |
 
