@@ -28,6 +28,15 @@ Additional supplemental articles as assigned
 ## Assignments
 There are three projects in this course: Digital Rhetoric project, Data and Culture project, and a Digital (Re)Design project. There is also a final e-portfolio and reflection assignment in lieu of a final exam:
 
+|  Week 9: 10/21 - 10/27   | some wordy text | $1600      |
+|  Week 10: 10/28 - 11/3   | centered        |   $12      |
+|  Week 11: 11/4 - 11/10   | some wordy text | $1600      |
+|  Week 12: 11/11 - 11/17  | centered        |   $12      |
+|  Week 13: 11/18 - 11/24  | some wordy text | $1600      |
+|  Week 14: 11/25 - 12/1   | centered        |   $12      |
+|  Week 15: 12/2 - 12/4    | centered        |   $12      |
+|  Week 16: Final exam week| centered        |   $12      |
+
 **Digital Rhetoric project: Platform Rhetorics:** Due Week 5
 
 Write a detailed analysis of the digital platform of your choice, with prior approval. Select a platform you are already familiar with and examine its rhetorical capabilities paying special attention to content creation and circulation. 
@@ -141,23 +150,22 @@ The University Writing Center (UWC) is a free resource for UCF undergraduates an
 on anything you're writing (in or out of class), at any point in the writing process from brainstorming to editing. Appointments are recommended, but not required. For 
 more information or to make an appointment, visit the UWC website at http://www.uwc.ucf.edu, stop by MOD 608, or call (407) 823-2197. 
     
-
-| DATE                     | READING         | ASSIGNMENT |
+## Schedule
+| Date and Topic                     | Readings        | Assignments |
 | :----------------------- |:---------------:| ----------:|
-|  Week 1: 8/26 - 9/1      | some wordy text | $1600      |
-|  Week 2: 9/2 - 9/8       | centered        |   $12      |
-|  Week 3: 9/9 - 9/15      | centered        |   $12      |
-|  Week 4: 9/16 - 9/22     | some wordy text | $1600      |
-|  Week 5: 9/23 - 9/29     | centered        |   $12      |
-|  Week 6: 9/30 - 10/6     | centered        |   $12      |
-|  Week 7: 10/7 - 10/13    | some wordy text | $1600      |
-|  Week 8: 10/14 - 10/20   | centered        |   $12      |
-|  Week 9: 10/21 - 10/27   | some wordy text | $1600      |
-|  Week 10: 10/28 - 11/3   | centered        |   $12      |
-|  Week 11: 11/4 - 11/10   | some wordy text | $1600      |
-|  Week 12: 11/11 - 11/17  | centered        |   $12      |
-|  Week 13: 11/18 - 11/24  | some wordy text | $1600      |
-|  Week 14: 11/25 - 12/1   | centered        |   $12      |
-|  Week 15: 12/2 - 12/4    | centered        |   $12      |
-|  Week 16: Final exam week| centered        |   $12      |
+|  Week 1: Introduction and Digital Rhetoric      | Eyman, Covino & Joliffe | Post: Introduce yourself + your interests (Academic Activity Verification Assignment and Post: Reading Response)      |
+|  Week 2: Digital Rhetoric      | Eyman; Haas, Toward a Digital Cultural Rhetoric; Mapes/Hea, Devices and Desires        |   Post: Reading Response      |
+|  Week 3: Digital Rhetoric      | Eyman; Haas, Wampum as Hypertext; Gillespie, Politics of Platforms        |   Post: Project Idea for Digital Rhetoric Project      |
+|  Week 4: Digital Rhetoric    | Eyman; Vie, Social Media as Multimodal Composing | Post: Reading Response      |
+|  Week 5: Data and Culture     | centered        |   $12      |
+|  Week 6: Data and Culture    | centered        |   $12      |
+|  Week 7: Data and Culture    | some wordy text | $1600      |
+|  Week 8: Data and Culture   | centered        |   $12      |
+|  Week 9: Data and Culture   | some wordy text | $1600      |
+|  Week 10: Data and Culture   | centered        |   $12      |
+|  Week 11: Design Thinking   | some wordy text | $1600      |
+|  Week 12: Design Thinking  | centered        |   $12      |
+|  Week 13: Design Thinking  | some wordy text | $1600      |
+|  Week 14: Design Thinking, Conclusion   | centered        |   $12      |
+|  Week 15: Finals Week    | centered        |   $12      |
 
