@@ -34,15 +34,15 @@ There are three projects in this course: Digital Rhetoric project, Data and Cult
 |  Digital Rhetoric Project   | 15        |   15      |
 |  Data and Culture Project   | 15 | 15      |
 |  Digital (Re)Design Project  | 15        |   15      |
-|  Final E-Portfolio Reflection  | 15 | 15      |
+|  Final E-Portfolio and Reflection  | 15 | 15      |
 |  Total   | 100        |   100      |
 
 
-**Digital Rhetoric project: Platform Rhetorics:** Due Week 5
+**Digital Rhetoric Project: Platform Rhetorics:** Due Week 5
 
 Write a detailed analysis of the digital platform of your choice, with prior approval. Select a platform you are already familiar with and examine its rhetorical capabilities paying special attention to content creation and circulation. 
 
-**Data and Culture project: Wikipedia Analysis and Contribution:** Due Week 9
+**Data and Culture Project: Wikipedia Analysis and Contribution:** Due Week 9
 
 Analyze and update an existing Wikipedia entry: evaluate rhetorical elements and make at least one contribution to page content. Explain your contribution in a short discussion post.
 
@@ -135,7 +135,6 @@ prevent a student from completing the course and the remaining work can be compl
 an incomplete. Incomplete work must be finished by the end of the subsequent semester or the “I” will automatically be recorded as an “F” on your transcript. 
 
 
-
 ## Knights E-Mail Address
 UCF requires students to create and use a Knights E-Mail account for all university business. Only a Knights E-Mail address will be used for all university business, 
 including class rosters, financial aid, advising, etc. There will be no other e-mail address available for university personnel to access. Thus, when your e-mail address 
@@ -154,19 +153,19 @@ more information or to make an appointment, visit the UWC website at http://www.
 ## Schedule
 | Date and Topic                     | Readings        | Assignments |
 | :----------------------- |:---------------:| ----------:|
-|  Week 1: Introduction and Digital Rhetoric      | Eyman, Covino & Joliffe | Post: Introduce yourself + your interests (Academic Activity Verification Assignment and Post: Reading Response)      |
-|  Week 2: Digital Rhetoric      | Eyman; Haas, Toward a Digital Cultural Rhetoric; Mapes/Hea, Devices and Desires        |   Post: Reading Response      |
-|  Week 3: Digital Rhetoric      | Eyman; Haas, Wampum as Hypertext; Gillespie, Politics of Platforms        |   Post: Project Idea for Digital Rhetoric Project      |
-|  Week 4: Digital Rhetoric    | Eyman; Vie, Social Media as Multimodal Composing | Post: Reading Response      |
-|  Week 5: Data and Culture     | centered        |   $12      |
-|  Week 6: Data and Culture    | centered        |   $12      |
-|  Week 7: Data and Culture    | some wordy text | $1600      |
-|  Week 8: Data and Culture   | centered        |   $12      |
-|  Week 9: Data and Culture   | some wordy text | $1600      |
-|  Week 10: Data and Culture   | centered        |   $12      |
-|  Week 11: Design Thinking   | some wordy text | $1600      |
-|  Week 12: Design Thinking  | centered        |   $12      |
-|  Week 13: Design Thinking  | some wordy text | $1600      |
-|  Week 14: Design Thinking, Conclusion   | centered        |   $12      |
-|  Week 15: Finals Week    | centered        |   $12      |
+|  Week 1: Introduction and Digital Rhetoric      | Eyman: Intro, Ch 1; Covino & Joliffe | Post: Introduce yourself + your interests (Academic Activity Verification Assignment and Post: Reading Response)      |
+|  Week 2: Digital Rhetoric      | Eyman: Ch 2; Haas, Toward a Digital Cultural Rhetoric; Mapes/Hea, Devices and Desires        |   Post: Reading Response      |
+|  Week 3: Digital Rhetoric      | Eyman: Ch 3; Haas, Wampum as Hypertext; Gillespie, Politics of Platforms        |   Post: Project Idea for Digital Rhetoric Project      |
+|  Week 4: Digital Rhetoric    | Eyman: Ch 4; Vie, Social Media as Multimodal Composing | Post: Reading Response      |
+|  Week 5: Data and Culture     | Data Feminism: Intro, Ch 1-2        |   Submit: Digital Rhetoric Project      |
+|  Week 6: Data and Culture    | Data Feminism: Intro, Ch 3-5        |   Post: Reading Response      |
+|  Week 7: Data and Culture    | Data Feminism: Intro, Ch 6, Appendix | Post: Project Idea for Data and Culture Project      |
+|  Week 8: Data and Culture   | Algorithms of Oppression: Intro, Ch 1        |   Post: Reading Response      |
+|  Week 9: Data and Culture   | Algorithms of Oppression: Ch 2-4 | Submit: Data and Culture Project      |
+|  Week 10: Data and Culture   | Algorithms of Oppression: Ch 5-6, Conclusion        |   Post: Project Idea, Digital Culture (Re)Design Project      |
+|  Week 11: Design Thinking   | Costanza-Chock: Intro, Design Values | Post: Reading Response      |
+|  Week 12: Design Thinking  | Costanza-Chock: Design Practices, Design Narratives        |   Submit: Digital Culture (Re)Design Project      |
+|  Week 13: Design Thinking  | Costanza-Chock: Design Sites, Design Pedagogies; Faulkner, Making & Re-making the Self Through Digital Writing | Post: Reading Response      |
+|  Week 14: Design Thinking, Conclusion   | Costanza-Chock: Directions for Future Work        |   Submit: Course Evaluations      |
+|  Week 15: Finals Week    | N/A        |   Submit and Post: Final Portfolio and Reflection      |
 
