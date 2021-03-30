@@ -28,14 +28,15 @@ Additional supplemental articles as assigned
 ## Assignments
 There are three projects in this course: Digital Rhetoric project, Data and Culture project, and a Digital (Re)Design project. There is also a final e-portfolio and reflection assignment in lieu of a final exam:
 
-|  Week 9: 10/21 - 10/27   | some wordy text | $1600      |
-|  Week 10: 10/28 - 11/3   | centered        |   $12      |
-|  Week 11: 11/4 - 11/10   | some wordy text | $1600      |
-|  Week 12: 11/11 - 11/17  | centered        |   $12      |
-|  Week 13: 11/18 - 11/24  | some wordy text | $1600      |
-|  Week 14: 11/25 - 12/1   | centered        |   $12      |
-|  Week 15: 12/2 - 12/4    | centered        |   $12      |
-|  Week 16: Final exam week| centered        |   $12      |
+| Assignment                     | Points        | Percent of Overall Grade |
+| :----------------------- |:---------------:| ----------:|
+|  Discussion Posts   | 40 | 40      |
+|  Digital Rhetoric Project   | 15        |   15      |
+|  Data and Culture Project   | 15 | 15      |
+|  Digital (Re)Design Project  | 15        |   15      |
+|  Final E-Portfolio Reflection  | 15 | 15      |
+|  Total   | 100        |   100      |
+
 
 **Digital Rhetoric project: Platform Rhetorics:** Due Week 5
 
